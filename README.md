@@ -1,7 +1,7 @@
-## Favourite_Package
-It is an web application that will help you to choose your favourite NPM packages.
+# Favourite_Package
+It is a web application that will help you to choose your favorite NPM packages.
 
-# Features
+## Features
  - Searching
  - Debouncing
  - Add packages
@@ -11,7 +11,7 @@ It is an web application that will help you to choose your favourite NPM package
  - Custom hooks
  - Custom Components
 
-# Tech-Stack
+## Tech-Stack
   - Typescript
   - React
   - Tailwind
