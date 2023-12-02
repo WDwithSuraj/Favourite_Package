@@ -6,7 +6,7 @@ It is a web application that will help you to choose your favorite NPM packages.
  - Debouncing
  - Add packages
  - Edit description
- - View descript
+ - View description
  - Delete Packages
  - Custom hooks
  - Custom Components
